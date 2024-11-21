@@ -1,4 +1,5 @@
 # SkimLit: Sequential Sentence Classification in Medical Abstracts
+![SkimLit Model](https://github.com/ahmedatia456123/SkimLit-Sequential-Sentence-Classification-in-Medical-Abstracts/blob/main/model.png?raw=true)
 
 ## Objective
 
