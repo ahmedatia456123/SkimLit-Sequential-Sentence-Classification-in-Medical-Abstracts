@@ -3,7 +3,7 @@
 
 ## Objective
 
-In the previous notebook, **NLP Fundamentals in TensorFlow**, we covered essential natural language processing (NLP) concepts, including **tokenization** (converting words into numerical representations) and **embedding creation** (transforming words into vector representations). In this project, we will apply these techniques to real-world data.
+In this project, we will apply these techniques to real-world data.
 
 Specifically, we aim to replicate the deep learning model described in the 2017 paper, *PubMed 200k RCT: A Dataset for Sequential Sentence Classification in Medical Abstracts*.
 
